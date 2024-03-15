@@ -1,4 +1,3 @@
-//Initial references
 const container = document.querySelector(".container");
 const playerTurn = document.getElementById("playerTurn");
 const startScreen = document.querySelector(".startScreen");
